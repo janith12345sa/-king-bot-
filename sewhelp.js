@@ -8,13 +8,13 @@ Whats bot - Ravindu Manoj
 */
 
 function successfullMessage(msg) {
-    return "🇱🇰 *SewQueen*:  ```" + msg + "```"
+    return "🇱🇰 *😈King bot 😈*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🥴 *SewQueen*:  ```" + msg + "```"
+    return "🥴 *😈King bot 😈*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "🐲 *SewQueen*:  ```" + msg + "```"
+    return "🐲 *😈King bot 😈*:  ```" + msg + "```"
 }
 
 
