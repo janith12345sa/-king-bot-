@@ -6,7 +6,7 @@ janithsadanuwan whatsapp bot©
   
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Amalser_v2+WA+Bot+repo;Created+by+Amal;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+King bot+WA+Bot+repo;Created+by+Janith sadanuwan;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
 
   
 <div align="center">
